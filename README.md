@@ -3,12 +3,11 @@
 
 # Beispiele für enthaltene Projekte:
 
-# Berechnung von Umfang, Fläche und Volumen eines Kreises
-# Shopping-Cart-Programm
-# Countdown bis zum neuen Jahr
-# Grundlegender Bestell- und Umsatz- sowie Gewinnzonerechner
-# grundlegendes Bestandsverwaltungssystem
-# Weitere kleine Übungen
+# Spielautomat
+# Wecker
+# Würfelprogramm
+# Musik-Player
+# Countdown-Timer
 
 # Diese zwar einfachen, aber interessanten Projekte haben mein Interesse an der Programmierung sowie an der Informatik und angewandten Forschung weiter geweckt.
 
